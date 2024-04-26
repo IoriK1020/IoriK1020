@@ -1,4 +1,3 @@
-![Jonty Banner](https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Jonty%20Banner.jpg)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jonty -->
 
